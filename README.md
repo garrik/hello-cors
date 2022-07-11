@@ -1,7 +1,7 @@
 # test cors
 
 # dependencies
-pip3 install --user flask flask-cors
+pip3 install --user flask flask-cors flask_httpauth
 
 # test same origin
 export FLASK_APP=hello
